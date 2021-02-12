@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.small-flag {
+    width: 50px;
+}
+
+.mr-1 {
+    margin-right: 5px;
+}
+
+.listasombra {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5), 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    ;
+}
